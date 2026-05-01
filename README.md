@@ -24,6 +24,7 @@ La aplicación expone varios endpoints para consultar un glosario de términos s
 - (Opcional) Git para clonar el repositorio.
 
 ### Paso 1: Clonar el repositorio
+
 ```bash
 git clone git@github.com:AdolfoLahozPerez/Proyecto-Final-Integrador-docker.git
 cd Proyecto-Final-Integrador-docker
@@ -150,21 +151,24 @@ Proyecto-Final-Integrador-docker/
 ├── requirements.txt
 └── README.md
 
-### Prueba de funcionamiento Glosario Tech Api
+
+### Pruebas de funcionamiento
 
 ### Documentación Swagger
-![Swagger UI] (img/Captura swagger.png)
+![Swagger UI](img/swagger.png)
 
 ### Glosario de términos
-![Glosario de términos](img/Captura glosario.png)
+![GLosario de términos](img/glosario.png)
 
 ### Búsqueda de términos
-![Búsqueda de términos](img/Captura busqueda termino.png)
+![Búsqueda de términos](img/busqueda.png)
 
 ### Resultado
-![Resultado] (img/Captura resultado.png)
+![Resultado](img/resultado.png)
+
 
 ###🌟 Extras opcionales 
+
 Base de datos externa: Añadir un servicio mongo en docker-compose.yml y conectar FastAPI con motor o pymongo.
 
 Variables de entorno: Utilizar un archivo .env para configurar el puerto o la ruta del JSON.
