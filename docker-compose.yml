@@ -1,0 +1,10 @@
+version: '3.8'
+services:
+  glosario-api:
+    build: .
+    container_name: glosario-tech-api
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./app/glosario.json:/app/app/glosario.json
+    restart: unless-stopped
