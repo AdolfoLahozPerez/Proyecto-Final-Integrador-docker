@@ -154,16 +154,16 @@ Proyecto-Final-Integrador-docker/
 ### Pruebas de funcionamiento
 
 ### Documentación Swagger
-![Swagger UI](img/swagger.png)
+![Swagger UI](capturas/swagger.png)
 
 ### Glosario de términos
-![GLosario de términos](img/glosario.png)
+![GLosario de términos](capturas/glosario.png)
 
 ### Búsqueda de términos
-![Búsqueda de términos](img/busqueda.png)
+![Búsqueda de términos](capturas/busqueda.png)
 
 ### Resultado
-![Resultado](img/resultado.png)
+![Resultado](capturas/resultado.png)
 
 
 ###🌟 Extras opcionales 
