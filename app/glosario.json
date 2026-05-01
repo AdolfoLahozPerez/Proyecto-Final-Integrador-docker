@@ -1,0 +1,37 @@
+[
+  {
+    "termino": "docker",
+    "definicion": "Plataforma para desarrollar, enviar y ejecutar aplicaciones dentro de contenedores.",
+    "url": "https://docs.docker.com/get-started/overview/"
+  },
+  {
+    "termino": "contenedor",
+    "definicion": "Unidad estándar de software que empaqueta código y sus dependencias para ejecutarse en cualquier entorno.",
+    "url": "https://www.docker.com/resources/what-container"
+  },
+  {
+    "termino": "fastapi",
+    "definicion": "Framework moderno y rápido para construir APIs con Python, basado en tipos de Python estándar.",
+    "url": "https://fastapi.tiangolo.com/"
+  },
+  {
+    "termino": "api rest",
+    "definicion": "Estilo de arquitectura que utiliza solicitudes HTTP para acceder y usar datos.",
+    "url": "https://www.redhat.com/es/topics/api/what-is-a-rest-api"
+  },
+  {
+    "termino": "git",
+    "definicion": "Sistema de control de versiones distribuido para rastrear cambios en el código fuente.",
+    "url": "https://git-scm.com/"
+  },
+  {
+    "termino": "github",
+    "definicion": "Plataforma de alojamiento de repositorios Git con colaboración, CI/CD y más.",
+    "url": "https://docs.github.com/es"
+  },
+  {
+    "termino": "docker compose",
+    "definicion": "Herramienta para definir y ejecutar aplicaciones Docker de varios contenedores mediante un archivo YAML.",
+    "url": "https://docs.docker.com/compose/"
+  }
+]
