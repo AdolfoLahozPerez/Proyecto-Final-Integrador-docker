@@ -153,6 +153,7 @@ Tests automatizados: Incorporar pytest y ejecutarlos en el CI.
 CI/CD con GitHub Actions: Construir la imagen Docker automáticamente en cada push a main.
 
 _Este proyecto cumple con todos los requisitos del Proyecto Integrador._
+Realizado a través de CAMPUS VDI.
 
 ###Autor: Adolfo Lahoz Pérez
 ###Repositorio: Proyecto Final Integrador Docker
