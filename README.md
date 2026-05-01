@@ -24,6 +24,7 @@ La aplicación expone varios endpoints para consultar un glosario de términos s
 - (Opcional) Git para clonar el repositorio.
 
 ### Paso 1: Clonar el repositorio
+
 ```bash
 git clone git@github.com:AdolfoLahozPerez/Proyecto-Final-Integrador-docker.git
 cd Proyecto-Final-Integrador-docker
@@ -36,6 +37,7 @@ docker compose up -d --build
 El flag -d ejecuta el contenedor en segundo plano. Si prefieres ver los logs en tiempo real, omite -d.
 
 ###Paso 4: Acceder a la aplicación
+
 La API queda expuesta en el puerto 8000. Puedes probarla desde el navegador o con curl:
 
 Documentación Swagger: http://localhost:8000/docs
@@ -49,9 +51,12 @@ Término específico: GET /termino/{nombre} (ej. /termino/docker)
 Búsqueda: GET /buscar?q=palabra
 
 ###Paso 5: Detener los servicios
+
 ```bash
 docker compose down
+
 ##🐳 Explicación de los archivos Docker
+
 Dockerfile
 dockerfile
 FROM python:3.11-slim
@@ -96,6 +101,7 @@ restart: unless-stopped: El contenedor se reinicia automáticamente si falla, a 
 (Opcional) Se puede añadir un servicio mongo si se desea migrar la base de datos a MongoDB (ver sección de extras).
 
 ###🔧 Posibles problemas y soluciones
+
 El puerto 8000 ya está ocupado
 Cambia el mapeo en docker-compose.yml a "8001:8000" y accede desde http://localhost:8001.
 
@@ -109,6 +115,7 @@ Error "Permission denied" al acceder al socket de Docker
 Cierra sesión y vuelve a entrar, o ejecuta newgrp docker para aplicar los cambios de grupo.
 
 ###✨ Contribuciones y organización del proyecto con ramas
+
 El flujo de trabajo sigue el modelo simplificado de Git Flow:
 
 main: Código estable y desplegable.
@@ -134,7 +141,7 @@ Cuando develop esté listo para producción, crear PR de develop a main y fusion
 Este flujo garantiza que main siempre contenga una versión probada y estable de la aplicación.
 
 ###📂 Estructura final del repositorio
-text
+
 Proyecto-Final-Integrador-docker/
 ├── app/
 │   ├── main.py
@@ -143,7 +150,24 @@ Proyecto-Final-Integrador-docker/
 ├── docker-compose.yml
 ├── requirements.txt
 └── README.md
+
+### Pruebas de funcionamiento
+
+### Documentación Swagger
+![Swagger UI](img/Captura swagger.png)
+
+### Glosario de términos
+![GLosario de términos](img/Captura glosario.png)
+
+### Búsqueda de términos
+![Búsqueda de términos](img/Captura busqueda termino.png)
+
+### Resultado
+![Resultado](img/Captura resultado.png)
+
+
 ###🌟 Extras opcionales 
+
 Base de datos externa: Añadir un servicio mongo en docker-compose.yml y conectar FastAPI con motor o pymongo.
 
 Variables de entorno: Utilizar un archivo .env para configurar el puerto o la ruta del JSON.
