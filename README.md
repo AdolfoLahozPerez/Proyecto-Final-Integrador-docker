@@ -154,16 +154,16 @@ Proyecto-Final-Integrador-docker/
 ### Pruebas de funcionamiento
 
 ### Documentación Swagger
-![Swagger UI](capturas/swagger.png)
+![Swagger UI](screenshots/swagger.png)
 
 ### Glosario de términos
-![GLosario de términos](capturas/glosario.png)
+![GLosario de términos](screenshots/glosario.png)
 
 ### Búsqueda de términos
-![Búsqueda de términos](capturas/busqueda.png)
+![Búsqueda de términos](screenshots/busqueda.png)
 
 ### Resultado
-![Resultado](capturas/resultado.png)
+![Resultado](screenshots/resultado.png)
 
 
 ###🌟 Extras opcionales 
@@ -181,3 +181,4 @@ Realizado a través de CAMPUS VDI.
 
 ###Autor: Adolfo Lahoz Pérez
 ###Repositorio: Proyecto Final Integrador Docker
+
