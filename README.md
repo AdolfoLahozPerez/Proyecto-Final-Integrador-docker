@@ -155,19 +155,19 @@ Proyecto-Final-Integrador-docker/
 
 ## SWAGGER UI
 
-<img src="screenshots/swagger.png" alt="Swagger UI" width="850" height="300" />
+![Swagger UI](screenshots/swagger.png)
 
 ## GLOSARIO
 
-<img src="screenshots/glosario.png" alt="Glosario de términos" width="850" height="300" />
+![Glosario de términos](screenshots/glosario.png)
 
 ## BÚSQUEDA
 
-<img src="screenshots/busqueda.png" alt="Búsqueda de términos" width="850" height="300" /> 
+![Glosario de términos](screenshots/glosario.png)
 
 ## RESULTADO
 
-<img src="screenshots/resultado.png" alt="Resultado" width="850" height="300" />
+![Resultado](screenshots/resultado.png)
 
 ###🌟 Extras opcionales 
 
