@@ -153,21 +153,17 @@ Proyecto-Final-Integrador-docker/
 
 ### Pruebas de funcionamiento
 
-<p align="center">
-  <img src="screenshots/swagger.png" alt="Swagger UI" width="600">
-</p>
+## SWAGGER UI
+ <img src="https://github.com/AdolfoLahozPerez/Proyecto-Final-Integrador-docker/blob/main/screenshots/swagger.png" alt="Swagger UI" width="850" height="300" />
 
-<p align="center">
-  <img src="screenshots/glosario.png" alt="Glosario de términos" width="600">
-</p>
+## GLOSARIO
+ <img src="https://github.com/AdolfoLahozPerez/Proyecto-Final-Integrador-docker/blob/main/screenshots/glosario.png" alt="Glosario de términos" width="850" height="300"/>
 
-<p align="center">
-  <img src="screenshots/busqueda.png" alt="Búsqueda de términos" width="600">
-</p>
+## BÚSQUEDA
+ <img src="https://github.com/AdolfoLahozPerez/Proyecto-Final-Integrador-docker/blob/main/screenshots/busqueda.png" alt="Búsqueda de términos" width="850" height="300" />
 
-<p align="center">
-  <img src="screenshots/resultado.png" alt="Resultado" width="600">
-</p>
+## RESULTADO
+<img src="https://github.com/AdolfoLahozPerez/Proyecto-Final-Integrador-docker/blob/main/screenshots/resultado.png" alt="Resultado" width="850" height="300" />
 
 ###🌟 Extras opcionales 
 
