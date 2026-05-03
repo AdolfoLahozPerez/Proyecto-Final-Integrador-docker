@@ -143,6 +143,7 @@ Este flujo garantiza que main siempre contenga una versión probada y estable de
 ###📂 Estructura final del repositorio
 
 Proyecto-Final-Integrador-docker/
+```text
 ├── app/
 │   ├── main.py
 │   └── glosario.json
