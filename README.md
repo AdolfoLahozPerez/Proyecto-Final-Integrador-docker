@@ -1,4 +1,3 @@
-<img width="1024" height="768" alt="swagger" src="https://github.com/user-attachments/assets/4116b60e-8a82-4279-8ddb-da8546714b15" />
 # Glosario Tech API
 
 API REST con **FastAPI** para consultar definiciones de términos tecnológicos.  
