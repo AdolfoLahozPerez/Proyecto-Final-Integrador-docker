@@ -154,16 +154,16 @@ Proyecto-Final-Integrador-docker/
 ### Pruebas de funcionamiento
 
 ## SWAGGER UI
- <img src="https://raw.githubusercontent.com/AdolfoLahozPerez/Proyecto-Final-Integrador-docker/blob/main/screenshots/swagger.png" alt="Swagger UI" width="850" height="300" />
+ <img src="https://raw.githubusercontent.com/AdolfoLahozPerez/Proyecto-Final-Integrador-docker/main/screenshots/swagger.png" alt="Swagger UI" width="850" height="300" />
 
 ## GLOSARIO
- <img src="https://raw.githubusercontent.com/AdolfoLahozPerez/Proyecto-Final-Integrador-docker/blob/main/screenshots/glosario.png" alt="Glosario de términos" width="850" height="300"/>
+ <img src="https://raw.githubusercontent.com/AdolfoLahozPerez/Proyecto-Final-Integrador-docker/main/screenshots/glosario.png" alt="Glosario de términos" width="850" height="300"/>
 
 ## BÚSQUEDA
- <img src="https://raw.githubusercontent.com/AdolfoLahozPerez/Proyecto-Final-Integrador-docker/blob/main/screenshots/busqueda.png" alt="Búsqueda de términos" width="850" height="300" />
+ <img src="https://raw.githubusercontent.com/AdolfoLahozPerez/Proyecto-Final-Integrador-docker/main/screenshots/busqueda.png" alt="Búsqueda de términos" width="850" height="300" />
 
 ## RESULTADO
-<img src="https://raw.githubusercontent.com/AdolfoLahozPerez/Proyecto-Final-Integrador-docker/blob/main/screenshots/resultado.png" alt="Resultado" width="850" height="300" />
+<img src="https://raw.githubusercontent.com/AdolfoLahozPerez/Proyecto-Final-Integrador-docker/main/screenshots/resultado.png" alt="Resultado" width="850" height="300" />
 
 ###🌟 Extras opcionales 
 
