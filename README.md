@@ -1,3 +1,4 @@
+<img width="1024" height="768" alt="swagger" src="https://github.com/user-attachments/assets/4116b60e-8a82-4279-8ddb-da8546714b15" />
 # Glosario Tech API
 
 API REST con **FastAPI** para consultar definiciones de términos tecnológicos.  
@@ -155,19 +156,20 @@ Proyecto-Final-Integrador-docker/
 
 ## SWAGGER UI
 
-![Swagger UI](./screenshots/swagger.png)
+<img width="1024" height="768" alt="swagger" src="https://github.com/user-attachments/assets/67eef33f-9325-4ed1-933f-7f94b2817b37" />
 
 ## GLOSARIO
 
-![Glosario de términos](./screenshots/glosario.png)
+<img width="1024" height="768" alt="glosario" src="https://github.com/user-attachments/assets/8b23e976-d58a-41d3-b1b7-c92bbd91934a" />
 
 ## BÚSQUEDA
 
-![Glosario de términos](./screenshots/glosario.png)
+<img width="1024" height="768" alt="busqueda" src="https://github.com/user-attachments/assets/e81e1854-eb6c-4467-b437-ffea3fb19187" />
 
 ## RESULTADO
 
-![Resultado](./screenshots/resultado.png)
+<img width="1024" height="768" alt="resultado" src="https://github.com/user-attachments/assets/9b97a616-0da3-439f-b938-afdcb1f1a90c" />
+
 
 ###🌟 Extras opcionales 
 
